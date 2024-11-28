@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Helping Local Businesses Thrive with AI-Powered Marketing Solutions">
+  <title>Your Business Name</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem 0;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      background: #444;
+      padding: 1rem 0;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 1rem;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .hero {
+      text-align: center;
+      background: #f4f4f4;
+      padding: 2rem 1rem;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 1rem;
+    }
+
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Business Name</h1>
+    <p>Helping Local Businesses Thrive</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <div class="hero">
+    <h2>Welcome to Our Business</h2>
+    <p>Specializing in AI-Powered Marketing for Small Service Businesses.</p>
+  </div>
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We empower small businesses to grow through tailored social media and marketing strategies.</p>
+  </section>
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Social Starter:</strong> Social media essentials for new businesses.</li>
+      <li><strong>Local Growth:</strong> Boost your local SEO and blog presence.</li>
+      <li><strong>Engagement Pro:</strong> Full-service content and engagement solutions.</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: yourbusiness@email.com</p>
+    <p>Phone: (123) 456-7890</p>
+  </section>
+  <footer>
+    <p>&copy; 2024 Your Business Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
